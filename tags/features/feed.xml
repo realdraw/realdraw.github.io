@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>RealDraw 기술 블로그</title>
+      <link>https://realdraw.github.com/blog</link>
+      <description>RealDraw 기술, 개발 조직, 문화에 대한 이야기를 들려드려요</description>
+      <language>ko-KR</language>
+      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
+      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://realdraw.github.com/tags/features/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://realdraw.github.com/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://realdraw.github.com/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>
