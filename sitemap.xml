@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://realdraw.github.com/</loc>
+<lastmod>2025-07-04</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/blog</loc>
+<lastmod>2025-07-04</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/projects</loc>
+<lastmod>2025-07-04</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/tags</loc>
+<lastmod>2025-07-04</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/blog/code-sample</loc>
+<lastmod>2016-03-08T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/blog/github-markdown-guide</loc>
+<lastmod>2019-10-11T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/blog/guide-to-using-images-in-nextjs</loc>
+<lastmod>2020-11-11T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://realdraw.github.com/blog/intro-realdraw</loc>
+<lastmod>2025-07-04T00:00:00.000Z</lastmod>
+</url>
+</urlset>
