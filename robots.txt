@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://realdraw.github.com
-Sitemap: https://realdraw.github.com/sitemap.xml
+Host: https://tech.realdraw.ai
+Sitemap: https://tech.realdraw.ai/sitemap.xml
