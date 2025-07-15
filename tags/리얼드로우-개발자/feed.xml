@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>REALDRAW TECH Blog</title>
+      <link>https://tech.realdraw.ai/blog</link>
+      <description>기술 스토리텔링을 만나다.</description>
+      <language>ko-KR</language>
+      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
+      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <lastBuildDate>Fri, 11 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tech.realdraw.ai/tags/리얼드로우-개발자/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</guid>
+    <title>테크팀, 1년9개월의 여정: 끊임없는 도전과 성장의 기록</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</link>
+    <description>투명한 소통을 통해 서로를 믿어 의심치 않는 문화를 지향합니다.</description>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 조직문화</category><category>리얼드로우</category><category>리얼드로우 테크팀</category><category>개발자</category><category>리얼드로우 개발자</category>
+  </item>
+
+    </channel>
+  </rss>
