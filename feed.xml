@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>REALDRAW TECH Blog</title>
+      <link>https://tech.realdraw.ai/blog</link>
+      <description>기술 스토리텔링을 만나다.</description>
+      <language>ko-KR</language>
+      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
+      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <lastBuildDate>Tue, 21 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tech.realdraw.ai/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</guid>
+    <title>언리얼 플러그인 개발, 세 가지 접근과 나의 선택</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</link>
+    <description>언리얼 플러그인 개발, 세 가지 접근과 나의 선택</description>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 3D팀</category><category>리얼드로우</category><category>언리얼 플러그인</category><category>언리얼 플러그인 파이썬</category><category>파이썬</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</guid>
+    <title>git hook 및 git lfs를 활용한 3D 에셋 관리</title>
+    <link>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</link>
+    <description>git lfs를 조금더 편하게 사용할수 있는 법을 배워보자.</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 3D팀</category><category>리얼드로우</category><category>언리얼 에셋 관리</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</guid>
+    <title>리얼드로우의 언리얼 에셋 관리, 어떻게 다를까요?</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</link>
+    <description>리얼드로우 3D팀의 언리얼 에셋 관리 방식과 그 배경에 대해 알아봅니다.</description>
+    <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 3D팀</category><category>리얼드로우</category><category>언리얼 에셋 관리</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</guid>
+    <title>테크팀, 1년9개월의 여정: 끊임없는 도전과 성장의 기록</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</link>
+    <description>투명한 소통을 통해 서로를 믿어 의심치 않는 문화를 지향합니다.</description>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 조직문화</category><category>리얼드로우</category><category>리얼드로우 테크팀</category><category>개발자</category><category>리얼드로우 개발자</category>
+  </item>
+
+    </channel>
+  </rss>

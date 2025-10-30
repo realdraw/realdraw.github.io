@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>REALDRAW TECH Blog</title>
+      <link>https://tech.realdraw.ai/blog</link>
+      <description>기술 스토리텔링을 만나다.</description>
+      <language>ko-KR</language>
+      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
+      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <lastBuildDate>Tue, 21 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tech.realdraw.ai/tags/파이썬/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</guid>
+    <title>언리얼 플러그인 개발, 세 가지 접근과 나의 선택</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</link>
+    <description>언리얼 플러그인 개발, 세 가지 접근과 나의 선택</description>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 3D팀</category><category>리얼드로우</category><category>언리얼 플러그인</category><category>언리얼 플러그인 파이썬</category><category>파이썬</category>
+  </item>
+
+    </channel>
+  </rss>
