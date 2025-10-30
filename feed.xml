@@ -7,9 +7,19 @@
       <language>ko-KR</language>
       <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
       <webMaster>tech@realdraw.ai (Borris)</webMaster>
-      <lastBuildDate>Tue, 21 Oct 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 30 Oct 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tech.realdraw.ai/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</guid>
+    <title>웹툰 배경 찍을때 사용할수 있는 언리얼 플러그인을 공유합니다.</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</link>
+    <description>웹툰 배경 찍을때 사용할수 있는 언리얼 플러그인을 공유합니다.</description>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>리얼드로우 3D팀</category><category>리얼드로우</category><category>언리얼 플러그인</category><category>언리얼 플러그인 파이썬</category><category>파이썬</category>
+  </item>
+
   <item>
     <guid>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</guid>
     <title>언리얼 플러그인 개발, 세 가지 접근과 나의 선택</title>
