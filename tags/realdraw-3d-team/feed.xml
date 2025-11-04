@@ -1,0 +1,54 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>REALDRAW TECH Blog</title>
+      <link>https://tech.realdraw.ai/blog</link>
+      <description>기술 스토리텔링을 만나다.</description>
+      <language>ko-KR</language>
+      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
+      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <lastBuildDate>Tue, 15 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tech.realdraw.ai/tags/realdraw-3d-team/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</guid>
+    <title>How REALDRAW Manages Unreal Assets Differently</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</link>
+    <description>An inside look at how REALDRAW’s 3D team manages Unreal assets — and why it’s different.</description>
+    <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Asset Management</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</guid>
+    <title>Managing 3D Assets Efficiently with Git Hooks and Git LFS</title>
+    <link>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</link>
+    <description>Learn how to use Git LFS more conveniently for managing large 3D assets.</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Asset Management</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</guid>
+    <title>Unreal Plugin Development: Three Approaches and My Choice</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</link>
+    <description>Unreal plugin development — exploring three approaches and why I chose Python.</description>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Plugin</category><category>Unreal Plugin Python</category><category>Python</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</guid>
+    <title>Sharing Unreal Plugins for Webtoon Background Work and Folder Organization</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</link>
+    <description>Introducing Unreal plugins that simplify background setup and asset organization for webtoon production.</description>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Plugin</category><category>Unreal Plugin Python</category><category>Python</category>
+  </item>
+
+    </channel>
+  </rss>

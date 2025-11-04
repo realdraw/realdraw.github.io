@@ -12,6 +12,66 @@
       
   <item>
     <guid>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</guid>
+    <title>Tech Team, 1 Year and 9 Months: A Journey of Relentless Challenge and Growth</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</link>
+    <description>We aim for a culture of transparent communication and unshakable trust.</description>
+    <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW Culture</category><category>REALDRAW Tech Team</category><category>Developer</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</guid>
+    <title>How REALDRAW Manages Unreal Assets Differently</title>
+    <link>https://tech.realdraw.ai/blog/2025_07_15_realdraw_3d_asset_management</link>
+    <description>An inside look at how REALDRAW’s 3D team manages Unreal assets — and why it’s different.</description>
+    <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Asset Management</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</guid>
+    <title>Managing 3D Assets Efficiently with Git Hooks and Git LFS</title>
+    <link>https://tech.realdraw.ai/blog/2025_09_02_realdraw_3d_asset_management_git_hook</link>
+    <description>Learn how to use Git LFS more conveniently for managing large 3D assets.</description>
+    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Asset Management</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</guid>
+    <title>Unreal Plugin Development: Three Approaches and My Choice</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_21_realdraw_unreal_plugin_spawn_man</link>
+    <description>Unreal plugin development — exploring three approaches and why I chose Python.</description>
+    <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Plugin</category><category>Unreal Plugin Python</category><category>Python</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</guid>
+    <title>Sharing Unreal Plugins for Webtoon Background Work and Folder Organization</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_30_realdraw_unreal_plugin</link>
+    <description>Introducing Unreal plugins that simplify background setup and asset organization for webtoon production.</description>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW 3D Team</category><category>Unreal Plugin</category><category>Unreal Plugin Python</category><category>Python</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</guid>
+    <title>B200 CUDA Error 802: A Strange Issue Solved by Enabling MIG</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</link>
+    <description>B200 CUDA Error 802: An unexpected issue resolved by enabling MIG.</description>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW TECH Team</category><category>AWS</category><category>B200</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</guid>
     <title>테크팀, 1년9개월의 여정: 끊임없는 도전과 성장의 기록</title>
     <link>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</link>
     <description>투명한 소통을 통해 서로를 믿어 의심치 않는 문화를 지향합니다.</description>

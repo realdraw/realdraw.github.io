@@ -12,6 +12,16 @@
       
   <item>
     <guid>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</guid>
+    <title>B200 CUDA Error 802: A Strange Issue Solved by Enabling MIG</title>
+    <link>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</link>
+    <description>B200 CUDA Error 802: An unexpected issue resolved by enabling MIG.</description>
+    <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+    <author>tech@realdraw.ai (Borris)</author>
+    <category>REALDRAW</category><category>REALDRAW TECH Team</category><category>AWS</category><category>B200</category>
+  </item>
+
+  <item>
+    <guid>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</guid>
     <title>B200 CUDA Error 802, MIG 활성화로 해결한 이상한 경험</title>
     <link>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</link>
     <description>B200 CUDA Error 802, MIG 활성화로 해결한 이상한 경험</description>
