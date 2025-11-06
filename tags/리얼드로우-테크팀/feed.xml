@@ -3,10 +3,10 @@
     <channel>
       <title>REALDRAW TECH Blog</title>
       <link>https://tech.realdraw.ai/blog</link>
-      <description>기술 스토리텔링을 만나다.</description>
+      <description>Meet Technical Storytelling</description>
       <language>ko-KR</language>
-      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
-      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <managingEditor>tech@realdraw.ai (RealDraw TECH)</managingEditor>
+      <webMaster>tech@realdraw.ai (RealDraw TECH)</webMaster>
       <lastBuildDate>Fri, 11 Jul 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tech.realdraw.ai/tags/리얼드로우-테크팀/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://tech.realdraw.ai/blog/2025_07_11_intro-realdraw</link>
     <description>투명한 소통을 통해 서로를 믿어 의심치 않는 문화를 지향합니다.</description>
     <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
-    <author>tech@realdraw.ai (Borris)</author>
+    <author>tech@realdraw.ai (RealDraw TECH)</author>
     <category>REALDRAW</category><category>리얼드로우 조직문화</category><category>리얼드로우</category><category>리얼드로우 테크팀</category><category>개발자</category><category>리얼드로우 개발자</category>
   </item>
 

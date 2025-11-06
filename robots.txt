@@ -1,10 +1,16 @@
 User-Agent: *
 Allow: /
 Disallow: search.json
+Disallow: search-en.json
+Disallow: search-ko.json
 Disallow: feed.xml
 Disallow: naverb881229909766598e56bb9910e122bb7.html
 Disallow: google2f3057768fd30ad2.html
 Disallow: index.txt
+Disallow: /tag/
+Disallow: /_next/
+Disallow: /404/
+Disallow: /404.html
 
 Host: https://tech.realdraw.ai
 Sitemap: https://tech.realdraw.ai/sitemap.xml

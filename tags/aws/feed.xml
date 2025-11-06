@@ -3,10 +3,10 @@
     <channel>
       <title>REALDRAW TECH Blog</title>
       <link>https://tech.realdraw.ai/blog</link>
-      <description>기술 스토리텔링을 만나다.</description>
+      <description>Meet Technical Storytelling</description>
       <language>ko-KR</language>
-      <managingEditor>tech@realdraw.ai (Borris)</managingEditor>
-      <webMaster>tech@realdraw.ai (Borris)</webMaster>
+      <managingEditor>tech@realdraw.ai (RealDraw TECH)</managingEditor>
+      <webMaster>tech@realdraw.ai (RealDraw TECH)</webMaster>
       <lastBuildDate>Fri, 31 Oct 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tech.realdraw.ai/tags/aws/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</link>
     <description>B200 CUDA Error 802: An unexpected issue resolved by enabling MIG.</description>
     <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-    <author>tech@realdraw.ai (Borris)</author>
+    <author>tech@realdraw.ai (RealDraw TECH)</author>
     <category>REALDRAW</category><category>REALDRAW TECH Team</category><category>AWS</category><category>B200</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://tech.realdraw.ai/blog/2025_10_31_realdraw_b200</link>
     <description>B200 CUDA Error 802, MIG 활성화로 해결한 이상한 경험</description>
     <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-    <author>tech@realdraw.ai (Borris)</author>
+    <author>tech@realdraw.ai (RealDraw TECH)</author>
     <category>REALDRAW</category><category>리얼드로우 TECH팀</category><category>리얼드로우</category><category>AWS</category><category>B200</category>
   </item>
 
